@@ -3,6 +3,10 @@
 Developed a complete Unity game in 48 hours based on the theme "Limited Space". Created gameplay, 
 art, and effects for an asteroid-style game featuring diverse enemies. 
 
+Ludum Dare game site: https://ldjam.com/events/ludum-dare/54/running-out-of-space
+
+itch.io: https://tal28.itch.io/running-out-of-space
+
 At first its seems like any other ordinary space game but wait … space shrinks!!! Maneuver the spaceship between asteroids and aliens and save space.
 
 ![alt text](https://static.jam.host/raw/5f5/b5/z/5c914.png)
